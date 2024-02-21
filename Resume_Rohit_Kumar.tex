@@ -1,0 +1,256 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    {\Huge \scshape Rohit Kumar} \\ \vspace{1pt}
+    San Diego, CA 92122 \\ \vspace{1pt}
+    \small \raisebox{-0.1\height}\faPhone\ 858-203-8507 ~ \href{mailto:rokumar@ucsd.edu}{\raisebox{-0.2\height}\faEnvelope\  \underline{rokumar@ucsd.edu}} ~ 
+    \href{https://www.linkedin.com/in/rohit1347/}{\raisebox{-0.2\height}\faLinkedin\ \underline{rohit1347}}  ~
+    \href{https://github.com/rohit1347}{\raisebox{-0.2\height}\faGithub\ \underline{rohit1347}}
+    \vspace{-8pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of California San Diego}{2018 -- 2020}
+      {Master of Science in Electrical and Computer Engineering - Communication Theory and Systems}{San Diego, CA}
+       \resumeSubheading
+      {SRM Institute of Science and Technology}{2013 -- 2017}
+      {Bachelor of Technology in Electronics and Communication Engineering}{Chennai, India}
+  \resumeSubHeadingListEnd
+
+%------RELEVANT COURSEWORK-------
+\section{Coursework}
+    %\resumeSubHeadingListStart
+        \begin{multicols}{4}
+            \begin{itemize}[itemsep=-5pt, parsep=3pt]
+                \item\small Modern Communication Networks
+                \item Linear Algebra \& Applications
+                \item Random Processes
+                \item Communications Lab II
+                \item Python Programming for Algorithms \& Data Analysis
+                \item Applications of DSP
+                \item Machine Learning for Image Processing
+                \item Information Theory
+                \item Principles of Wireless Networks
+            \end{itemize}
+        \end{multicols}
+        \vspace*{2.0\multicolsep}
+    %\resumeSubHeadingListEnd
+\vspace{-4pt}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {5G Cellular Systems Performance Analysis Engineer}{07/2020 -- Present}
+      {Qualcomm Inc.}{San Diego, CA}
+      \resumeItemListStart
+        \resumeItem{Evaluated/debugged downlink SCH/CCH KPIs on Keysight UXM+Propsim platform.}
+        \resumeItem{In depth knowledge of RRC IEs and bring up of bespoke tests for features across 3GPP protocol stack (TDD/FDD, FR1/FR2, NR-DC, SA/NSA, multi-CC) under various channel fading scenarios (AWGN, TDL-A/B/C, HST-SFN).}
+        \resumeItem{Resolved modem demod/firmware issues with cross functional teams using log analysis and post-processing.}
+        \resumeItem{Delivered first NRDC on 8RX CPE Performance test with Qualcomm Test Base Station, improving FR1 performance by 10\%+ and test execution cost savings of 80\%+.}
+        \resumeItem{Skilled in IQ analysis, data visualization, test planning and test automation using batch scripts and Python.}
+      \resumeItemListEnd
+% \vspace{-12pt}
+    \resumeSubheading
+      {Summer Research Intern \& Graduate Research Assistant}{03/2019 -- 06/2020}
+      {University of California San Diego}{San Diego, CA}
+      \vspace{-20pt}
+      \resumeProjectHeading
+          {\textit{\small Sub-band Full Duplex Radios (Upcoming 3GPP Rel18 feature)}}{Research advisor: Prof Dinesh Bharadia}
+      \resumeItemListStart
+        \resumeItem{Mobicom 2022- BSMA: Scalable LoRa Networks Using Full Duplex Gateways \href{https://mobicom22.hotcrp.com/doc/mobicom22-final738.pdf?cap=hcav738AGhBgfFTdujnxeFgeubzndYa/}{(DOI:10.1145/3495243.3560544)}}
+        \resumeItem{Increased reliability and throughput of LPWANs and IoT networks using a full-duplex (FD) PHY layer at the base station and FD enabled MAC layer.}
+        \resumeItem{Developed a simulation framework for FD performance based on real data.}
+        \resumeItem{Improved cancellation by 20 dB with 'successive' quantization method.}
+        \resumeItem{Designed and developed cheap RF-PCB analog cancellation boards with 30dB cancellation.}
+        \resumeItem{Designed a small dev PCB for UCSD’s first low power 'Backscatter' communication IC \href{https://today.ucsd.edu/index_redis_default_site.php?/story/new-chip-brings-ultra-low-power-wi-fi-connectivity-to-iot-devices&/pressrelease/new-chip-brings-ultra-low-power-wi-fi-connectivity-to-iot-devices}{(news-clip)}.}
+    \resumeItemListEnd
+    
+    \resumeSubheading
+      {Graduate Teaching Assistant}{03/2020 -- 06/2020}
+      {University of California San Diego}{San Diego, CA}
+            \vspace{-20pt}
+      \resumeProjectHeading
+          {\textit{\small ECE161C - Applications of Digital Signal Processing}}{Course instructor: Prof Fred Harris}
+      \resumeItemListStart
+        \resumeItem{Taught DSP applications in a modem, such as shaping and matched filters, PLLs, frequency and timing loops, OFDM/Single Carrier-OFDM.}
+    \resumeItemListEnd
+
+    
+  \resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{WiFi OFDM Project} $|$ \emph{Modern Communication Networks}}{10/2018 - 12/2018}
+          \resumeItemListStart
+            \resumeItem{Implemented OFDM receiver on MATLAB and achieved $\approx$ 0.001 BER with real world data.}
+            \resumeItem{Implemented packet detection, channel estimation and CFO/SFO and Doppler shift compensation algorithms using preambles and pilots.}
+          \resumeItemListEnd
+          \vspace{-12pt}
+      \resumeProjectHeading
+          {\href{https://github.com/siddharths16/ECE-285-Project-YOLOv3}{\textbf{Investigating Multi-Object Detection} $|$ \emph{Machine Learning for Image Processing}}}{09/2019 - 12/2019}
+          \resumeItemListStart
+            \resumeItem{Implemented YOLOv3 and CenterNet and achieved mAP of 0.67 and 0.8
+respectively with PASCAL-VOC dataset.}
+          \resumeItemListEnd 
+          
+    \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills \& Tools}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Skills}{: 5G Modem System Testing, Python, C/C++, RF Testing, Test Automation, Research, Analysis, Algorithms} \\
+     \textbf{Tools}{: Keysight PRT, QXDM, APEX, MATLAB, PyTorch, Git, Altium Designer, Vector Signal Analyzer} \\
+    }}
+ \end{itemize}
+ \vspace{-16pt}
+
+
+%-----------INVOLVEMENT---------------
+\section{Leadership / Extracurricular}
+    \resumeSubHeadingListStart
+        \resumeSubheading{Cognitive Radio System and ABU ROBOCON 2015, 2016}{08/2014 -- 03/2017}{SRM Institute of Science and Technology}{Chennai, India}
+            \resumeItemListStart
+                \resumeItem{Cognitive Radio System - Adjudged best project by the ECE department.}
+                \resumeItem{Fabricated wireless system with beam-steering and frequency hopping for secure communications.}
+                \resumeItem{Built robots for ABU ROBOCON competition and reached national finals twice.}
+            \resumeItemListEnd
+        
+    \resumeSubHeadingListEnd
+
+\end{document}
