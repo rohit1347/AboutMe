@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.8)  5 NOV 2024 23:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.8)  10 DEC 2024 00:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -356,6 +356,16 @@ Package hyperref Info: Link coloring OFF on input line 117.
 \@outlinefile=\write3
 \openout3 = `Resume_Rohit_Kumar.out'.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 127.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 127.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 127.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 127.
+ (C:\Users\rohit\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 128.
  (C:\Users\rohit\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 128.
@@ -364,10 +374,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 128.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 128.
- (C:\Users\rohit\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 129.
  (C:\Users\rohit\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
@@ -377,12 +383,6 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not a
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 136.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 140.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 140.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 140.
 
 Overfull \hbox (0.55968pt too wide) in paragraph at lines 188--190
 []  
@@ -424,9 +424,9 @@ Here is how much of TeX's memory you used:
  31926 multiletter control sequences out of 15000+600000
  476388 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,498b,451s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,11n,77p,438b,451s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}<C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume_Rohit_Kumar.pdf (1 page, 135735 bytes).
+Output written on Resume_Rohit_Kumar.pdf (1 page, 136380 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
