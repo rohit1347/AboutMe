@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.8)  2 FEB 2025 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.8)  30 MAR 2025 19:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -384,22 +384,22 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 136.
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 188--190
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 189--191
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 202--204
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 203--205
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 216--218
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 217--219
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 223--225
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 224--226
 []  
  []
 
@@ -420,13 +420,13 @@ Package rerunfilecheck Info: File `Resume_Rohit_Kumar.out' has not changed.
 Here is how much of TeX's memory you used:
  13665 strings out of 478338
  241446 string characters out of 2836701
- 567518 words of memory out of 3000000
+ 568518 words of memory out of 3000000
  31926 multiletter control sequences out of 15000+600000
  476388 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,438b,451s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}<C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rohit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume_Rohit_Kumar.pdf (1 page, 136443 bytes).
+Output written on Resume_Rohit_Kumar.pdf (1 page, 136509 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
