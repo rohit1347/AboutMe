@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.3)  22 OCT 2025 10:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.3)  22 OCT 2025 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -357,16 +357,6 @@ Package hyperref Info: Link coloring OFF on input line 117.
 \@outlinefile=\write3
 \openout3 = `Resume_Rohit_Kumar.out'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 127.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 127.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 127.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 127.
- (c:/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 128.
  (c:/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 128.
@@ -375,6 +365,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 128.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 128.
+ (c:/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 129.
  (c:/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
@@ -384,6 +378,12 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not a
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 136.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 140.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 140.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 140.
 
 Overfull \hbox (0.55968pt too wide) in paragraph at lines 190--192
 []  
@@ -432,9 +432,9 @@ Here is how much of TeX's memory you used:
  37303 multiletter control sequences out of 15000+600000
  565966 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,438b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,498b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume_Rohit_Kumar.pdf (1 page, 126905 bytes).
+Output written on Resume_Rohit_Kumar.pdf (1 page, 126248 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
