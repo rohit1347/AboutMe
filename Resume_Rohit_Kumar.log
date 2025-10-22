@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.3)  22 OCT 2025 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.3)  22 OCT 2025 10:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -385,22 +385,22 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 136.
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 189--191
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 190--192
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 203--205
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 204--206
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 217--219
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 218--220
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 224--226
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 225--227
 []  
  []
 
@@ -428,13 +428,13 @@ Package rerunfilecheck Info: File `Resume_Rohit_Kumar.out' has not changed.
 Here is how much of TeX's memory you used:
  14211 strings out of 473190
  245004 string characters out of 5719974
- 673248 words of memory out of 5000000
+ 674248 words of memory out of 5000000
  37303 multiletter control sequences out of 15000+600000
  565966 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,438b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume_Rohit_Kumar.pdf (1 page, 126821 bytes).
+Output written on Resume_Rohit_Kumar.pdf (1 page, 126905 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
